@@ -8,4 +8,3 @@ osmnx==1.0.1
 folium==0.12.1
 os-sys==2.1.4
 joblib==1.0.1
-hashlib==20081119
